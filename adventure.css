@@ -1,0 +1,25 @@
+#navigation {
+    background-color: #3aba76;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+flex-direction: row;}
+
+    
+   
+.intro{font-size: 20px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0pt;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    background-color: #2d4f56fe;
+    color: hsl(0, 15%, 86%);
+    line-height: 1.6;
+}
